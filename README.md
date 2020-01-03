@@ -1,2 +1,2 @@
 # vue-test
-VUE的联系
+VUE的练习
